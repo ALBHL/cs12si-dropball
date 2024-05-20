@@ -13,6 +13,7 @@ struct visionBallDropApp: App {
         WindowGroup {
             ContentView()
         }
+//        .defaultSize(width: 200, height: 200)
 
         ImmersiveSpace(id: "ImmersiveSpace") {
             ImmersiveView()

@@ -13,6 +13,7 @@
 		E57716E12BFB516900100015 /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57716E02BFB516900100015 /* ImmersiveView.swift */; };
 		E57716E32BFB516A00100015 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E57716E22BFB516A00100015 /* Assets.xcassets */; };
 		E57716E62BFB516A00100015 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E57716E52BFB516A00100015 /* Preview Assets.xcassets */; };
+		E57716EE2BFB5AD200100015 /* dice.usdc in Resources */ = {isa = PBXBuildFile; fileRef = E57716ED2BFB5AD200100015 /* dice.usdc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E57716E22BFB516A00100015 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E57716E52BFB516A00100015 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E57716E72BFB516A00100015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E57716ED2BFB5AD200100015 /* dice.usdc */ = {isa = PBXFileReference; lastKnownFileType = file; name = dice.usdc; path = "../../baseball_01_4k 2.usdc/dice.usdc"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				E57716DE2BFB516900100015 /* ContentView.swift */,
 				E57716E02BFB516900100015 /* ImmersiveView.swift */,
 				E57716E22BFB516A00100015 /* Assets.xcassets */,
+				E57716ED2BFB5AD200100015 /* dice.usdc */,
 				E57716E72BFB516A00100015 /* Info.plist */,
 				E57716E42BFB516A00100015 /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E57716E62BFB516A00100015 /* Preview Assets.xcassets in Resources */,
+				E57716EE2BFB5AD200100015 /* dice.usdc in Resources */,
 				E57716E32BFB516A00100015 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
